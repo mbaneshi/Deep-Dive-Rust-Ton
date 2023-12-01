@@ -162,7 +162,8 @@ mod deserialize_tests {
 
 ```
 
-Happy 1-year birthday! It's great to celebrate milestones. Now, let's dive into the Rust codebase related to Blockchain, ABI, and smart contracts.
+</details>
+
 
 The code you've provided seems to be part of a Rust test suite for param type handling. It involves testing the serialization and deserialization of different param types used in the context of smart contracts. Let's break down some key points:
 
@@ -202,5 +203,5 @@ The code you've provided seems to be part of a Rust test suite for param type ha
 Feel free to ask specific questions or request a deeper exploration of any particular aspect of the code!
 
   
-</details>
+
 
